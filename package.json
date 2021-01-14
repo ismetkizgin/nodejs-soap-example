@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-soap-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismetkizgin/nodejs-soap-example.git"
+  },
+  "author": "İsmet Kizgin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismetkizgin/nodejs-soap-example/issues"
+  },
+  "homepage": "https://github.com/ismetkizgin/nodejs-soap-example#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "soap": "^0.19.0"
+  }
+}
