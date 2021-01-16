@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ismetkizgin/nodejs-soap-example#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.15.2",
     "soap": "^0.19.0"
   }

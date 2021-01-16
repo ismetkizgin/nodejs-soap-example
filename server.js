@@ -2,6 +2,8 @@ var soap = require("soap");
 var app = require("express")();
 var fs = require("fs");
 var xml = fs.readFileSync("service.wsdl", "utf8");
+const cors = require("cors");
+app.use(cors());
 
 var port = 5001;
 
